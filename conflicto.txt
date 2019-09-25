@@ -4,4 +4,8 @@ Esto no me sale muy bien
 
 Parece que algo empieza a salir
 
+
 Ahora, también lo modifico desde el directorio local
+
+Tal y como me piden, modifico el archivo desde la web de GitHub
+
