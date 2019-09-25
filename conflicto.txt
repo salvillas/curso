@@ -3,3 +3,5 @@
 Esto no me sale muy bien
 
 Parece que algo empieza a salir
+
+Ahora, también lo modifico desde el directorio local
